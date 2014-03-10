@@ -1,0 +1,15 @@
+.x-grid3-focus{
+	left:0px !important
+}
+.EditorPasteCopyGridPanel .x-grid3-cell-inner, 
+.EditorPasteCopyGridPanel .x-grid3-row-table,
+.EditorPasteCopyGridPanel .x-grid3-row-table tr,
+.EditorPasteCopyGridPanel .x-grid3-row-table td,
+.EditorPasteCopyGridPanel .x-grid3-row {
+	user-select: none;
+	-o-user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: -moz-none;
+	-webkit-user-select: none;
+	cursor: default;
+}

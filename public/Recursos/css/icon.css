@@ -1,0 +1,300 @@
+﻿.icon-vbar {
+	background-image: url(../../Recursos/Imagenes/vbarras.png )!important;
+}
+
+.icon-errorIcon {
+	background-image: url(../../Recursos/Imagenes/list-error.png)!important;
+}
+
+.icon-line {
+	background-image: url(../../Recursos/Imagenes/line.png )!important;
+}
+
+.icon-hbar {
+	background-image: url(../../Recursos/Imagenes/hbarras.png )!important;
+}
+
+.icon-pie {
+	background-image: url(../../Recursos/Imagenes/pie.png )!important;
+}
+
+.icon-login {
+	background-image: url(../../Recursos/Imagenes/login.png )!important;
+}
+
+.icon-left {
+	background-image: url(../../Recursos/Imagenes/left.png )!important;
+}
+
+.icon-right {
+	background-image: url(../../Recursos/Imagenes/right.png )!important;
+}
+
+.icon-logout {
+	background-image: url(../../Recursos/Imagenes/logout.png )!important;
+}
+
+.icon-console {
+	background-image: url(../../Recursos/Imagenes/console.png )!important;
+}
+
+.icon-pages {
+	background-image: url(../../Recursos/Imagenes/pages.png )!important;
+}
+
+.icon-controlpanel {
+	background-image: url(../../Recursos/Imagenes/controlpanel.png )!important;
+}
+
+.icon-user {
+     background-image: url(../../Recursos/Imagenes/user.png )!important;
+     background-repeat:no-repeat  !important;
+}
+
+.icon-users {
+     background-image: url(../../Recursos/Imagenes/users.png )!important;
+     background-repeat:no-repeat  !important;
+}
+
+.icon-databaseEdit {
+     background-image: url(../../Recursos/Imagenes/DataBaseEdit.png )!important;
+}
+
+.icon-fingerprint {
+     background-image: url(../../Recursos/Imagenes/fingerprint.png )!important;
+}
+
+.icon-ModEdit {
+     background-image: url(../../Recursos/Imagenes/ModEdit.png )!important;
+}
+
+.icon-key {
+     background-image: url(../../Recursos/Imagenes/key.png )!important;
+}
+
+.icon-filter {
+     background-image: url(../../Recursos/Imagenes/filter.png )!important;
+
+}
+
+.icon-columns {
+     background-image: url(../../Recursos/Imagenes/pcl.png )!important;
+
+}
+
+.icon-disk {
+     background-image: url(../../Recursos/Imagenes/disk.png )!important;
+}
+
+.icon-link {
+     background-image: url(../../Recursos/Imagenes/link.png )!important;
+}
+
+.icon-tree {
+	background-image: url(../../Recursos/Imagenes/tree.png)!important;
+}
+
+.icon-up {
+     background-image: url(../../Recursos/Imagenes/up.png )!important;
+
+}
+
+.icon-down {
+	background-image: url(../../Recursos/Imagenes/down.png)!important;
+}
+
+.icon-add {
+     background-image: url(../../Recursos/Imagenes/add.png )!important;
+}
+
+.icon-delete {
+	background-image: url(../../Recursos/Imagenes/Eliminar.png)!important;
+    background-repeat:no-repeat  !important;
+}
+
+.icon-edit {
+	background-image: url(../../Recursos/Imagenes/edit.png)!important;
+}
+
+.icon-find {
+     background-image: url(../../Recursos/Imagenes/buscar.png )!important;
+}
+
+.icon-print {
+	background-image: url(../../Recursos/Imagenes/printer.png)!important;
+}
+
+.icon-clip {
+	background-image: url(../../Recursos/Imagenes/clip.png)!important;
+}
+
+
+.icon-Actualizar {
+	background-image: url(../../Recursos/Imagenes/actualizar.png)!important;
+}
+
+.icon-Limpiar {
+	background-image: url(../../Recursos/Imagenes/limpiar.png)!important;
+}
+
+.icon-cambiarPass {
+	background-image: url(../../Recursos/Imagenes/cambiarPass.png)!important;
+}
+
+.icon-siguiente {
+	background-image: url(../Imagenes/next.png)!important;
+}
+.icon-atras {
+	background-image: url(../Imagenes/back.png)!important;
+}
+
+.icon-form {
+	background-image: url(../Imagenes/form.png)!important;
+}
+.icon-tabpcl {
+	background-image: url(../Imagenes/tabpcl.png)!important;
+}
+
+.icon-export {
+	background-image: url(../../Recursos/Imagenes/export.png)!important;
+}
+
+.icon-excel {
+	background-image: url(../../Recursos/Imagenes/page_excel.png)!important;
+}
+
+.icon-word {
+	background-image: url(../../Recursos/Imagenes/page_word.png)!important;
+}
+
+.icon-pdf {
+	background-image: url(../../Recursos/Imagenes/pdf.png)!important;
+}
+
+.icon-marker {
+	background-image: url(../../Recursos/Imagenes/marker.png)!important;
+}
+
+.icon-stikyNotes {
+	background-image: url(../../Recursos/Imagenes/stikyNotes.png)!important;
+}
+
+.icon-colormenu {
+	background-image: url(../../Recursos/Imagenes/colormenu.png)!important;
+}
+
+.icon-taskbar {
+	background-image: url(../../Recursos/Imagenes/taskbar.png)!important;
+}
+
+/*trigger:*/
+
+.x-form-field-wrap .x-form-browse-trigger {
+    background: url(../../Recursos/Imagenes/find.png) no-repeat 0 0;
+    cursor: pointer;
+    right: 0px;
+}
+
+.x-form-clear-trigger {
+        background: url(../../Recursos/Imagenes/note.png) no-repeat !important;
+}
+
+.x-form-help-trigger {
+        background: url(../../Recursos/Imagenes/button_help.png) no-repeat !important;
+}
+
+
+/*por corregir:*/
+
+.icon-ok {
+	background-image: url(../Imagenes/ok.png)!important;
+}
+.icon-persona {
+	background-image: url(../Imagenes/auxiliar.png)!important;
+}
+.icon-project {
+	background-image: url(../Imagenes/project.png)!important;
+}
+.icon-system {
+	background-image: url(../Imagenes/system.png)!important;
+}
+.icon-tree {
+	background-image: url(../Imagenes/tree.png)!important;
+}
+
+.icon-task {
+	background-image: url(../Imagenes/task.png)!important;
+}
+
+.icon-question {
+	background-image: url(../Imagenes/question.png)!important;
+}
+
+.icon-cancelar {
+	background-image: url(../Imagenes/cancelar.png)!important;
+}
+.icon-clip {
+	background-image: url(../Imagenes/clip.png)!important;
+}
+
+.icon-agregar {
+	background-image: url(../Imagenes/agregar.png)!important;
+}
+
+.icon-Eliminar {
+	background-image: url(../Imagenes/Eliminar.png)!important;
+
+}
+.icon-editar {
+  background-image:url(../Imagenes/pencil.png) !important;
+}
+
+
+
+
+.icon-open {
+	background-image: url(../Imagenes/open.png)!important;
+}
+.icon-help {
+	background-image: url(../Imagenes/help.png)!important;
+}
+.icon-step {
+	background-image: url(../Imagenes/step.png)!important;
+}
+
+
+.icon-Guardar {
+	background-image: url(../Imagenes/save.png)!important;
+}
+
+.icon-salir {
+	background-image: url(../Imagenes/Salir.png)!important;
+}
+.icon-upload {
+	background-image: url(../Imagenes/Upload.png)!important;
+}
+
+.icon-imprimir {
+	background-image: url(../Imagenes/printer.png)!important;
+}
+
+.icon-buscar {
+	background-image: url(../Imagenes/buscar.png)!important;
+}
+
+.bienvenido {
+	color: black;
+}
+
+.sm-tree-icon {
+   /* margin: 2px 3px 0 0 !important;*/
+    width: 16px !important;
+    background-size: 16px 16px !important;
+
+}
+
+
+.sm-tabpanel-icon {
+    
+    height: 16px !important;
+}

@@ -1,0 +1,20 @@
+﻿.background-SM {
+    
+    background-image:url(../../Recursos/Imagenes/fondo.jpg) !important; 
+    background-size:100% 100% !important; 
+    background-repeat:no-repeat  !important;
+}
+
+.background-SM-login {
+    
+    background-image:url(../../Recursos/Imagenes/fondo2.png) !important; 
+    background-size:100% 100% !important; 
+    background-repeat:no-repeat  !important;
+}
+
+.background-login {
+    
+    background-image:url(../../Recursos/Imagenes/login64.png) !important; 
+    background-size:100% 100% !important; 
+    background-repeat:no-repeat  !important;
+}

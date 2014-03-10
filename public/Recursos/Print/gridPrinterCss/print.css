@@ -1,0 +1,97 @@
+/*
+ * Print and Close icons from Silk icon set 1.3
+ * _________________________________________
+ * Mark James
+ * http://www.famfamfam.com/lab/icons/silk/
+ */
+
+html.ux-grid-printer,.ux-grid-printer div,.ux-grid-printer dl,.ux-grid-printer dt,.ux-grid-printer dd,
+.ux-grid-printer ul,.ux-grid-printer ol,.ux-grid-printer li,.ux-grid-printer h1,.ux-grid-printer h2,
+.ux-grid-printer h3,.ux-grid-printer h4,.ux-grid-printer h5,.ux-grid-printer h6,.ux-grid-printer pre,.ux-grid-printer form,
+.ux-grid-printer fieldset,.ux-grid-printer input,.ux-grid-printer p,.ux-grid-printer blockquote,.ux-grid-printer th,.ux-grid-printer td
+    {
+    margin: 0;
+    padding: 0;
+}
+
+html.ux-grid-printer, .ux-grid-printer img,.ux-grid-printer body {
+    border: 0;
+}
+
+.ux-grid-printer address,.ux-grid-printer caption,.ux-grid-printer cite,.ux-grid-printer code,.ux-grid-printer dfn,.ux-grid-printer em,.ux-grid-printer strong,.ux-grid-printer th,.ux-grid-printer var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+.ux-grid-printer ol,.ux-grid-printer ul {
+    list-style: none;
+}
+
+.ux-grid-printer caption,.ux-grid-printer th {
+    text-align: left;
+}
+
+.ux-grid-printer h1,.ux-grid-printer h2,.ux-grid-printer h3,.ux-grid-printer h4,.ux-grid-printer h5,.ux-grid-printer h6 {
+    font-size: 100%;
+}
+
+.ux-grid-printer q:before,.ux-grid-printer q:after {
+    content: '';
+}
+
+.ux-grid-printer .ux-grid-printer-links {
+    padding: 0 0 20px 0;
+}
+
+.ux-grid-printer a.ux-grid-printer-linkprint {
+    padding: 0 0 0 18px;
+    margin: 0 5px;
+    background: url(printer.png) no-repeat bottom left !important;
+}
+
+.ux-grid-printer a.ux-grid-printer-linkclose {
+    padding: 0 0 0 18px;
+    margin: 0 5px;
+    background: url(cross.png) no-repeat bottom left !important;
+}
+
+.ux-grid-printer table {
+    width: 100%;
+    text-align: left;
+    font-size: 11px;
+    font-family: arial;
+    border-collapse: collapse;
+}
+
+.ux-grid-printer table th {
+    font-weight: bold;
+    padding: 4px 3px 4px 5px;
+    border: 1px solid #d0d0d0;
+    border-left-color: #eee;
+    background-color: #ededed;
+}
+
+.ux-grid-printer table tr.odd {
+    background-color: #ffffff;
+}
+
+.ux-grid-printer table tr.even {
+    background-color: #f9f9f9;
+}
+
+.ux-grid-printer table td {
+    padding: 4px 3px 4px 5px;
+    border-style: none solid solid;
+    border-width: 1px;
+    border-color: #ededed;
+}
+
+@media print {
+    .ux-grid-printer body {
+        margin: 0;
+        padding: 0;
+    }
+    .ux-grid-printer div.ux-grid-printer-noprint {
+        display: none;
+    }
+}

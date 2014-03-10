@@ -1,0 +1,71 @@
+.rojobajo{ 
+    color: #FA5858 !important;
+}
+
+
+.x-quirks #images-view .thumb {
+    padding-bottom: 3px;
+}
+
+.thumb img{
+    height: 32px;
+    width: 32px;
+}
+.thumb-wrap{
+    float: left;
+    margin: 4px;
+    margin-right: 4px;
+    padding: 10px;
+}
+.thumb-wrap span {
+    
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    width: 100px; /* for ie to ensure that the text is centered */
+}
+
+.x-item-over{
+    /*border:1px solid #dddddd;*/
+   background: #efefef url(../images/over.gif) repeat-x left top;
+    /*padding: 8px;*/
+}
+
+.x-item-selected{
+    background: #A7CAF9 url(../images/selected.gif) no-repeat right bottom;
+    /*border:1px solid #99bbe8;*/
+    /*padding: 10px;*/
+}
+.x-item-selected .thumb{
+    background:transparent;
+}
+
+
+.x-view-selector {
+    position:absolute;
+    left:0;
+    top:0;
+    width:0;
+    /*border:1px dotted;*/
+    opacity: .5;
+    -moz-opacity: .5;
+    filter:alpha(opacity=50);
+    /*zoom:1;*/
+    /*background-color:#c3daf9;*/
+    background-color:#A7CAF9;
+    /*border-color:#3399bb;*/
+}
+
+}.ext-strict .ext-ie .x-tree .x-panel-bwrap{
+    position:relative;
+    overflow:hidden;
+}
+
+ .x-grid-row ,.x-grid-cell, .x-unselectable, .x-unselectable * {
+ -webkit-user-select: text !important;
+ -o-user-select: text !important;
+ -khtml-user-select: all !important;
+ -ms-user-select: text !important;
+ user-select: text !important;
+ -moz-user-select: text !important;
+} 
